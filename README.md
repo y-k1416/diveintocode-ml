@@ -22,6 +22,7 @@ Sprint7:アンサンブル学習<br>
 Sprint8:深層学習スクラッチ　ニューラルネットワーク<br>
 Sprint9:深層学習スクラッチ　ディープニューラルネットワーク<br>
 Sprint10:深層学習スクラッチ　CNN1<br>
+https://github.com/yuya-ktom1416/diveintocode-ml/blob/master/Term2/Sprint10_CNN1.ipynb <br>
 Sprint11:深層学習スクラッチ　CNN2<br>
 Sprint12:ディープラーニングフレームワーク　Tensorflow　<br>
 Sprint13:ディープラーニングフレームワーク　Keras<br>
