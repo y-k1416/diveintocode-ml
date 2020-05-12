@@ -21,13 +21,12 @@ Sprint7:アンサンブル学習<br>
 ## Sprint Term2
 Sprint8:深層学習スクラッチ　ニューラルネットワーク<br>
 Sprint9:深層学習スクラッチ　ディープニューラルネットワーク<br>
-Sprint10:深層学習スクラッチ　CNN1<br>
-https://github.com/yuya-ktom1416/diveintocode-ml/blob/master/Term2/Sprint10_CNN1.ipynb <br>
+Sprint10:深層学習スクラッチ　CNN1 https://github.com/yuya-ktom1416/diveintocode-ml/blob/master/Term2/Sprint10_CNN1.ipynb <br>
 Sprint11:深層学習スクラッチ　CNN2<br>
 Sprint12:ディープラーニングフレームワーク　Tensorflow　<br>
 Sprint13:ディープラーニングフレームワーク　Keras<br>
 Sprint14:論文読解<br>
-Sprint15:論文紹介<br>
+Sprint15:論文紹介 https://github.com/yuya-ktom1416/diveintocode-ml/blob/master/Term2/%E7%94%BB%E5%83%8F%E3%82%BB%E3%82%AF%E3%82%99%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BD%9E%20%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B.pdf<br>
 Sprint16:Faster-RCNN<br>
 Sprint17:データセット作成<br>
 Sprint18:セグメンテーション１<br>
