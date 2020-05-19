@@ -35,3 +35,9 @@ Sprint20:自然言語処理入門<br>
 Sprint21:深層学習スクラッチ　RNN<br>
 Sprint22:ゲートつきRNN<br>
 Sprint23:Seq2Seq<br>
+
+## Self regi
+セルフレジを物体検知、分類を使ってラズパイで試したコード類
+物体検知はMobileNetV2
+分類は、OpencvのA-KAZEを利用
+
