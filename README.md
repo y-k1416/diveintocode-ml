@@ -37,7 +37,7 @@ Sprint22:ゲートつきRNN<br>
 Sprint23:Seq2Seq<br>
 
 ## Self regi
-セルフレジを物体検知、分類を使ってラズパイで試したコード類
-物体検知はMobileNetV2
-分類は、OpencvのA-KAZEを利用
+セルフレジを物体検知、分類を使ってラズパイで試したコード類<br>
+物体検知はMobileNetV2<br>
+分類は、OpencvのA-KAZEを利用<br>
 
