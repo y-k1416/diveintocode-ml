@@ -1,6 +1,6 @@
-# diveintocode-ml
+#
 # diveintocode機械学習コース
-DIVE INTO CODE機械学習コースの課題を管理するリポジトリです。
+DIVE INTO CODE機械学習コースの課題
 
 ## Before Lesson
 Week1: Python入門<br>
