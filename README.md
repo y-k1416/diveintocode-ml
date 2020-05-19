@@ -2,7 +2,7 @@
 # diveintocode機械学習コース
 DIVE INTO CODE機械学習コースの課題を管理するリポジトリです。
 
-## 事前学習課題
+## Before Lesson
 Week1: Python入門<br>
 Week2: 機械学習のための数学<br>
 Week3： 探索的データ分析<br>
